@@ -1,0 +1,33 @@
+*{
+    font-family: 'Baloo Tammudu 2', cursive;
+    margin: 0;
+    padding: 0;
+}
+div{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+textarea{
+    border: 2px solid #0984e3;
+    border-radius: 10px;
+    font-size:1.2rem;
+    box-shadow: 0 0 4px 1px #b2bec3;
+    outline: none;
+    padding:10px 2 px;
+}
+button{
+    padding: 10px 15px;
+    background-color: #74b9ff;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid #0984e3;
+    font-size: 1.2rem;
+    outline: none;
+}
+p {
+    color: #0984e3;
+    font-size: 1.2rem;
+}
